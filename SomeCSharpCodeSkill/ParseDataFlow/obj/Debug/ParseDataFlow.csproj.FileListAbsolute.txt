@@ -1,0 +1,6 @@
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\ParseDataFlow\obj\Debug\ParseDataFlow.csprojResolveAssemblyReference.cache
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\ParseDataFlow\obj\Debug\ParseDataFlow.csproj.CoreCompileInputs.cache
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\ParseDataFlow\bin\Debug\ParseDataFlow.dll
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\ParseDataFlow\bin\Debug\ParseDataFlow.pdb
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\ParseDataFlow\obj\Debug\ParseDataFlow.dll
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\ParseDataFlow\obj\Debug\ParseDataFlow.pdb

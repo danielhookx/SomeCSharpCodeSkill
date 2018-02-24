@@ -1,0 +1,6 @@
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\TimeOut\bin\Debug\TimeOut.dll
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\TimeOut\bin\Debug\TimeOut.pdb
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\TimeOut\obj\Debug\TimeOut.csprojResolveAssemblyReference.cache
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\TimeOut\obj\Debug\TimeOut.csproj.CoreCompileInputs.cache
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\TimeOut\obj\Debug\TimeOut.dll
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\TimeOut\obj\Debug\TimeOut.pdb

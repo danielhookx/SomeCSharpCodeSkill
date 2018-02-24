@@ -1,0 +1,12 @@
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\UseForm\bin\Debug\UseForm.exe.config
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\UseForm\bin\Debug\UseForm.exe
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\UseForm\bin\Debug\UseForm.pdb
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\UseForm\bin\Debug\TimeOut.dll
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\UseForm\bin\Debug\TimeOut.pdb
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\UseForm\obj\Debug\UseForm.csprojResolveAssemblyReference.cache
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\UseForm\obj\Debug\UseForm.Form1.resources
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\UseForm\obj\Debug\UseForm.Properties.Resources.resources
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\UseForm\obj\Debug\UseForm.csproj.GenerateResource.Cache
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\UseForm\obj\Debug\UseForm.csproj.CoreCompileInputs.cache
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\UseForm\obj\Debug\UseForm.exe
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\UseForm\obj\Debug\UseForm.pdb

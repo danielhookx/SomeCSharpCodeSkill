@@ -1,0 +1,5 @@
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\Unpack\bin\Debug\Unpack.dll
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\Unpack\bin\Debug\Unpack.pdb
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\Unpack\obj\Debug\Unpack.csproj.CoreCompileInputs.cache
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\Unpack\obj\Debug\Unpack.dll
+E:\各种课程的作业\C#\StudyForCSharp\SomeCSharpCodeSkill\Unpack\obj\Debug\Unpack.pdb
